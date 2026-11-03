@@ -1,0 +1,6 @@
+{
+  "name": "Ankita Voice Assistant",
+  "description": "Native Android personal voice assistant with Hey Ankita wake word detection, Bengali & English speech recognition, offline time assistant, alarms, and natural voice response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
